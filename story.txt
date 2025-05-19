@@ -6,10 +6,12 @@
 6. She explained how branches keep features organized.
 7. Her section ended with a tip: pull before you push.
 8. Bob described a time when a merge conflict taught him patience.
+8.1. Bob realized the importance of frequent commits.
 9. He learned to read conflict markers and resolve issues calmly.
 10. Bob's advice was to communicate with your team often.
 11. Carol contributed a story about using pull requests for code review.
 12. She highlighted how feedback improved the team's code quality.
+12.1. The team held a retrospective to discuss their progress.
 13. Carol encouraged everyone to review code with kindness.
 14. Dave remembered the first time he used rebase to clean up history.
 15. He was amazed by how tidy the commit log became.
