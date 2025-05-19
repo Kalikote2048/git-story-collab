@@ -2,3 +2,6 @@
 2. Their goal was to master collaborative workflows using Git.
 3. Everyone was excited to contribute their unique ideas.
 4. The project began with a single file: story.txt.
+5. Alice wrote about the importance of clear commit messages.
+6. She explained how branches keep features organized.
+7. Her section ended with a tip: pull before you push.
