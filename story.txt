@@ -11,3 +11,6 @@
 11. Carol contributed a story about using pull requests for code review.
 12. She highlighted how feedback improved the team's code quality.
 13. Carol encouraged everyone to review code with kindness.
+14. Dave remembered the first time he used rebase to clean up history.
+15. He was amazed by how tidy the commit log became.
+16. Dave finished the story with a reminder: always backup your work.
