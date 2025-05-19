@@ -8,3 +8,6 @@
 8. Bob described a time when a merge conflict taught him patience.
 9. He learned to read conflict markers and resolve issues calmly.
 10. Bob's advice was to communicate with your team often.
+11. Carol contributed a story about using pull requests for code review.
+12. She highlighted how feedback improved the team's code quality.
+13. Carol encouraged everyone to review code with kindness.
