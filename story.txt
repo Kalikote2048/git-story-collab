@@ -5,3 +5,6 @@
 5. Alice wrote about the importance of clear commit messages.
 6. She explained how branches keep features organized.
 7. Her section ended with a tip: pull before you push.
+8. Bob described a time when a merge conflict taught him patience.
+9. He learned to read conflict markers and resolve issues calmly.
+10. Bob's advice was to communicate with your team often.
